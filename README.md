@@ -72,5 +72,4 @@
   <li>data da primeira parcela deverá ser no máximo 3 meses após o dia atual</li>
 </ol>
 <hr>
-<h3>Links Úteis</h3>
-<ul>
+
